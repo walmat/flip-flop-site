@@ -1,0 +1,60 @@
+app-header {
+  width: 100%;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
+
+#chat {
+  margin-top: 25px;
+  padding-top: 10px;
+  width: 50%;
+}
+
+@media (max-width: 1080px) {
+  #chat {
+    width: 75%;
+  }
+}
+
+@media (max-width: 640px) {
+  #chat {
+    width: 95%;
+  }
+}
+
+.msg-container > :first-child {
+  margin-top: auto !important;
+}
+
+.msg-container > * {
+  flex-shrink: 0;
+}
+
+.message {
+  margin: 4px 10px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.message-image {
+  max-width: 400px;
+}
+
+#input-container {
+  margin-top: 10px;
+}
+
+#input-container button {
+  margin-left: 4px;
+  height: 39px;
+}
+
+input[type="file"] {
+  display: none;
+}
