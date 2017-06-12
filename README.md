@@ -51,9 +51,9 @@ Please read [CONTRIBUTING.md](https://gist.github.com/walmat/) for details on ou
 ## Authors
 
 * **Matthew Wall** - *Project Manager* - [walmat](https://github.com/walmat)
-* **Srinivas Dhanwada** - *Insert Role* - [walmat](https://github.com/walmat)
-* **Adam Tasset** - *Insert Role* - [walmat](https://github.com/walmat)
-* **Jacob Grace** - *Insert Role* - [walmat](https://github.com/walmat)
+* **Srinivas Dhanwada** - *Insert Role* - [Pr1sM](https://github.com/Pr1sM)
+* **Adam Tasset** - *Insert Role* - [Tasset](https://github.com/Tasset)
+* **Jacob Grace** - *Insert Role* - [JacobGrace1020](https://github.com/JacobGrace1020)
 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
