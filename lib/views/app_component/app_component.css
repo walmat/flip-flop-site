@@ -38,6 +38,17 @@ app-header {
   margin: 4px 10px;
 }
 
+.home-link {
+  color: black;
+  padding: 2.5%;
+}
+
+.home-link:hover {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
 .name {
   font-weight: bold;
 }

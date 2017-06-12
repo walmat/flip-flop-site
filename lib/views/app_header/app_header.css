@@ -2,14 +2,12 @@ header {
   padding: 10px;
   width: 100%;
   background-color: transparent;
-    color: ivory;
 }
 
 .icon {
   width: 24px;
   height: 24px;
   margin-right: 10px;
-    color: ivory;
 }
 
 #google-icon {
@@ -30,11 +28,15 @@ header {
   align-items: center;
 }
 
+.sign-in {
+    margin-right: 5%;
+}
+
 .btn {
     background-color: transparent;
-    color: ivory;
+    color: black;
 }
 .btn:hover {
-    opacity: 0.8;
-    color: ivory;
+    opacity: 0.5;
+    color: black;
 }

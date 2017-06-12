@@ -1,11 +1,15 @@
 /*******************************
-          Flex Layout
+          Font Books
 *******************************/
 
 @font-face {
   font-family: "VCR OSD Mono";
   src: url(VCR_OSD_MONO.ttf);
 }
+
+/*******************************
+          Flex Layout
+*******************************/
 
 .layout.horizontal,
 .layout.horizontal-reverse,
@@ -227,6 +231,10 @@
           Other Layout
 *******************************/
 
+h1, h2, h3, h4, h5, h6, p {
+  color: black;
+}
+
 .block {
   display: block;
 }
@@ -253,7 +261,7 @@
 }
 
 html {
-  background-color: #000;
+  background-color: ivory;
   overflow: scroll;
 }
 
@@ -267,7 +275,7 @@ body {
 body.fullbleed {
   margin: 0;
   height: 100vh;
-  background-color: #000;
+  /*background-color: #000;*/
 }
 
 .scroll {
