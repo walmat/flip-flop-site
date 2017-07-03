@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:angular2/core.dart';
 
 import '../app_header/app_header.dart';

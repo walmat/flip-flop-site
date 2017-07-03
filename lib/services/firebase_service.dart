@@ -1,4 +1,3 @@
-import 'dart:html';
 import 'dart:async';
 
 import 'package:angular2/core.dart';
@@ -8,9 +7,6 @@ import 'package:firebase/firebase.dart' as fb;
 class FirebaseService {
   fb.Auth _fbAuth;
   fb.GoogleAuthProvider _fbGoogleAuthProvider;
-  fb.Database _fbDatabase;
-  fb.Storage _fbStorage;
-  fb.DatabaseReference _fbRefMessages;
   fb.User user;
 
 

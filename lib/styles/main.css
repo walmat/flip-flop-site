@@ -1,11 +1,4 @@
-/*******************************
-          Font Books
-*******************************/
 
-@font-face {
-  font-family: "VCR OSD Mono";
-  src: url(VCR_OSD_MONO.ttf);
-}
 
 /*******************************
           Flex Layout
@@ -73,6 +66,10 @@
   -webkit-flex: none;
   flex: none;
 }
+
+/*.flex {*/
+  /*transform: scale(1.5);*/
+/*}*/
 
 .flex,
 .flex-1 {
@@ -232,6 +229,7 @@
 *******************************/
 
 h1, h2, h3, h4, h5, h6, p {
+  font-family: "VCR OSD Mono", sans-serif;
   color: black;
 }
 
@@ -268,7 +266,6 @@ html {
 body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.75;
-  font-family: "VCR OSD Mono";
   text-transform: uppercase;
 }
 
